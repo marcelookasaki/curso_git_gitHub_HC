@@ -12,9 +12,9 @@ _Teste de itálico com underline_
 
 **Negrito e _itálico_ aninhado**
 
-<sub>Subscrito</sub>
+Teste de subscrito <sub>Subscrito</sub>
 
-<sup>Sobrescrito</sup>
+Teste de sobrescrito<sup>Sobrescrito</sup>
 
 
 ## Listas
