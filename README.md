@@ -32,7 +32,7 @@ Teste de sobrescrito<sup>Sobrescrito</sup>
 
 ## Links
 
-[Texto do link](https://www.github.com)
+[Github](https://www.github.com)
 
 ### 3 Teste de Markdown 
 
