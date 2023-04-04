@@ -16,8 +16,8 @@ _Teste de itálico com underline_
 #### 4 Teste de Markdown 
 
 1. Item 1
-  1. SubItem um
-  1. SubItem dois
+   1. SubItem um
+   1. SubItem dois
 2. Item 2
 3. Item 3
 ##### 5 Teste de Markdown 
