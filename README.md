@@ -36,7 +36,7 @@ Teste de sobrescrito<sup>Sobrescrito</sup>
 
 [https://www.google.com](https://www.google.com)
 
-[Perfil: ](https://www.github.com/marcelookasaki/)
+[Perfil: ](https://github.com/marcelookasaki)
 
 ### 3 Teste de Markdown 
 
