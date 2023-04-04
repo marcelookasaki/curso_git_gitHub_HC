@@ -34,6 +34,10 @@ Teste de sobrescrito<sup>Sobrescrito</sup>
 
 [Github](https://www.github.com)
 
+[https://www.google.com](https://www.google.com)
+
+[Perfil: ](https://www.github.com/marcelookasaki/)
+
 ### 3 Teste de Markdown 
 
 
@@ -44,7 +48,7 @@ Teste de sobrescrito<sup>Sobrescrito</sup>
 
 ![Octo](https://myoctocat.com/assets/images/base-octocat.svg)
 
-###### 5 Teste de Markdown Imagem local
-###### 6 Teste de Markdown Imagem local
+###### 5 Teste de Markdown
+###### 6 Imagem local
 
 ![Profe](img/profe.png)
