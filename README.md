@@ -38,7 +38,9 @@ Teste de sobrescrito<sup>Sobrescrito</sup>
 
 Perfil: https://github.com/marcelookasaki
 
-### 3 Teste de Markdown 
+### 3 Link com imagem
+
+[![Link do perfil na imagem do octo](https://myoctocat.com/assets/images/base-octocat.svg)](https://github.com/marcelookasaki)
 
 
 #### 4 Teste de Markdown 
