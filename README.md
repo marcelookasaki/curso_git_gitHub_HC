@@ -72,3 +72,10 @@ server.listen(port, () => {
   console.log(`servidor server rodando em http://localhost:${port}`)
 })
   ```
+## Inserindo lista de tarefas
+
+- [ x ] fazer compras
+- [   ] montar cardápio
+- [ x ] estudar
+- [   ] praticar atividade física
+- [   ] meditar
