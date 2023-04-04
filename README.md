@@ -20,5 +20,9 @@ _Teste de itálico com underline_
    1. SubItem dois
 2. Item 2
 3. Item 3
-##### 5 Teste de Markdown 
-###### 6 Teste de Markdown 
+##### 5 Teste de Markdown Imagem com url
+
+![Octo](https://myoctocat.com/assets/images/base-octocat.svg)
+###### 6 Teste de Markdown Imagem local
+
+![Profe](img/profe.png)
