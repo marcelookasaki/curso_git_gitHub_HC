@@ -75,7 +75,7 @@ server.listen(port, () => {
 ## Inserindo lista de tarefas
 
 - [x] fazer compras
-- [] montar cardápio
+- [ ] montar cardápio
 - [x] estudar
-- [] praticar atividade física
-- [] meditar
+- [ ] praticar atividade física
+- [ ] meditar
